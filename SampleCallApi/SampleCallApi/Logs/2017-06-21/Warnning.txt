@@ -1,0 +1,6 @@
+21/06/2017-15:32:30 | JobNo -> JoNo is required.<br />ItemCode -> ItemCode is required. Item Row : 1.<br />
+21/06/2017-15:33:49 | JobNo -> JoNo is required.<br />ItemCode -> ItemCode is required. Item Row : 1.<br />
+21/06/2017-15:34:09 | JobNo -> JoNo is required.<br />ItemCode -> ItemCode is required. Item Row : 1.<br />
+21/06/2017-15:35:27 | JobNo -> JoNo is required.<br />ItemCode -> ItemCode is required. Item Row : 1.<br />
+21/06/2017-15:36:44 | JobNo -> JoNo is required.<br />ItemCode -> ItemCode is required. Item Row : 1.<br />
+21/06/2017-15:37:06 | JobNo -> JoNo is required.<br />ItemCode -> ItemCode is required. Item Row : 1.<br />
